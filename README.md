@@ -1,7 +1,9 @@
 ## Caden Page
 ### Machine Learning | Robotics | Controls
 ---
-### UT Austin Mechanical Engineering Undergrad. Incoming PhD Student at UT Austin. 
+### UT Austin Mechanical Engineering Undergrad. Surgical Robotics Researcher.
+
+### Incoming PhD Student at UT Austin. 
 
 ### I build robotic systems that combine perception, control, and embedded hardware.
 ---
@@ -13,7 +15,7 @@
   
 ---
 
-### Selected Projects
+## Selected Projects
 
 - [Rotom Robot Arm](https://github.com/cadenpage/rotom)
 - [Autonomous Basketball Robot](https://github.com/cadenpage/Ball-E)
