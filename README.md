@@ -1,7 +1,7 @@
 ## Caden Page
 ### Machine Learning | Robotics | Controls
 ---
-### UT Austin Mechanical Engineering Undergrad. Incoming PhD Student at UT Ausin. 
+### UT Austin Mechanical Engineering Undergrad. Incoming PhD Student at UT Austin. 
 
 ### I build robotic systems that combine perception, control, and embedded hardware.
 ---
