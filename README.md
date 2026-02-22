@@ -10,12 +10,15 @@
 - Robot learning
 - Vision-based control
 - Autonomous systems
+  
+---
 
-Selected Projects
-[Rotom Robot Arm](https://github.com/cadenpage/rotom)
-[Autonomous Basketball Robot](https://github.com/cadenpage/Ball-E)
-[Learning from Demonstration Simulator](https://github.com/cadenpage/TeleOp-BC)
-[Vision Controlled Kei Truck](https://github.com/cadenpage/kei-truck)
+### Selected Projects
+
+- [Rotom Robot Arm](https://github.com/cadenpage/rotom)
+- Autonomous Basketball Robot](https://github.com/cadenpage/Ball-E)
+- [Learning from Demonstration Simulator](https://github.com/cadenpage/TeleOp-BC)
+- [Vision Controlled Kei Truck](https://github.com/cadenpage/kei-truck)
 
 
 
