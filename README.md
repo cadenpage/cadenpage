@@ -18,7 +18,9 @@
 ## Selected Projects
 
 - [Rotom Robot Arm](https://github.com/cadenpage/rotom)
+- [Diffusion Policy for Rotom](diffusion-policy-robot-learning-rotom)
 - [Autonomous Basketball Robot](https://github.com/cadenpage/Ball-E)
+- [Compliant Tendon Actuated Gripper](https://github.com/cadenpage/compliant-tendon-actuated-gripper)
 - [Learning from Demonstration Simulator](https://github.com/cadenpage/TeleOp-BC)
 - [Vision Controlled Kei Truck](https://github.com/cadenpage/kei-truck)
 
