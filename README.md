@@ -18,6 +18,7 @@
 ## Selected Projects
 
 - [Rotom Robot Arm](https://github.com/cadenpage/rotom)
+- [Reinforcement Learning for Rotom](https://github.com/cadenpage/rotom-rl)
 - [Diffusion Policy for Rotom](https://github.com/cadenpage/diffusion-policy)
 - [Autonomous Basketball Robot](https://github.com/cadenpage/Ball-E)
 - [Compliant Tendon Actuated Gripper](https://github.com/cadenpage/compliant-tendon-actuated-gripper)
