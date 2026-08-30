@@ -1,19 +1,7 @@
 ## Caden Page
-### Machine Learning | Robotics | Controls
+### Robot Learning
 ---
-### UT Austin Mechanical Engineering Undergrad. Surgical Robotics Researcher.
-
-### Incoming PhD Student at UT Austin. 
-
-### I build robotic systems that combine perception, control, and embedded hardware.
----
-### Current interests
-- Surgical robotics
-- Robot learning
-- Vision-based control
-- Autonomous systems
-  
----
+### UT Austin Doctoral Researcher
 
 ## Selected Projects
 
